@@ -1,6 +1,6 @@
 baseURL = 'https://Xinlu-Y.github.io/'
 languageCode = 'en-us'
-title = 'Stardew's Space'
+title = "Stardew's Space"
 author = "xinlu"
 
 theme = 'saral'
